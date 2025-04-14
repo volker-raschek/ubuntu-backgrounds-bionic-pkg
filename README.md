@@ -1,7 +1,6 @@
 # ubuntu-backgrounds-bionic
 
 ![AUR version](https://img.shields.io/aur/version/ubuntu-backgrounds-bionic?label=AUR)
-[![Build Status](https://drone.cryptic.systems/api/badges/volker.raschek/ubuntu-backgrounds-bionic-pkg/status.svg)](https://drone.cryptic.systems/volker.raschek/ubuntu-backgrounds-bionic-pkg)
 ![AUR votes](https://img.shields.io/aur/votes/ubuntu-backgrounds-bionic)
 
 This repository contains build files to build the Arch Linux package `ubuntu-backgrounds-bionic`. Instead of building the
